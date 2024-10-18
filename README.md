@@ -52,8 +52,7 @@ and the distribution of the betting pool includes rewards for the original poste
     - The NFT tapp cards for owner: Yes $1, No $1, share to earn, withdraw money
    
 2. **Technical:**
-    - An ERC-721 (NFT) contract is issued upon the user’s first interaction (bet or share).
-    - The NFT holds metadata such as the user’s accumulated winnings and any referral fees collected from sharing.
+    - An ERC-721 (NFT) contract is issued upon the prediction is created by tBot.
 
 ### Finalizing and Settling Bets:
 1. **User Flow:**
